@@ -1,7 +1,7 @@
 {
     "Discord":{
-        "Webhook": ""
+        "Webhook": "https://discordapp.com/api/webhooks/709506672388997151/943beRwHa5YeMRnl-oo-Z7V5f76-cfphqHcR21XT7ZCjVu2imuC9FqaCRU-ai0e-j207"
     },
-    "Skus":[],
+    "Skus":[6321794,6316580,6364255,5761912],
     "Interval": 3000
 }

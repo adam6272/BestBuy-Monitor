@@ -1,5 +1,5 @@
 {
-  "name": "bestbuy-monitor",
+  "name": "bestbuy-monito",
   "version": "1.0.0",
   "description": "Monitor BestBuy online web store for in-stock nintendo switches",
   "main": "app.js",
